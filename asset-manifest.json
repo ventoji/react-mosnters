@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mosnters/static/css/main.4e398d8d.chunk.css",
+    "main.js": "/react-mosnters/static/js/main.1c4b93fc.chunk.js",
+    "main.js.map": "/react-mosnters/static/js/main.1c4b93fc.chunk.js.map",
+    "runtime~main.js": "/react-mosnters/static/js/runtime~main.030779e9.js",
+    "runtime~main.js.map": "/react-mosnters/static/js/runtime~main.030779e9.js.map",
+    "static/js/2.2c32a551.chunk.js": "/react-mosnters/static/js/2.2c32a551.chunk.js",
+    "static/js/2.2c32a551.chunk.js.map": "/react-mosnters/static/js/2.2c32a551.chunk.js.map",
+    "index.html": "/react-mosnters/index.html",
+    "precache-manifest.6315cc5905e98394b815b505d76fc224.js": "/react-mosnters/precache-manifest.6315cc5905e98394b815b505d76fc224.js",
+    "service-worker.js": "/react-mosnters/service-worker.js",
+    "static/css/main.4e398d8d.chunk.css.map": "/react-mosnters/static/css/main.4e398d8d.chunk.css.map"
+  }
+}
